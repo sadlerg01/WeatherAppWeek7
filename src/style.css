@@ -1,0 +1,24 @@
+body {
+  background-color: #f9f7fe;
+  .explora-regular {
+    font-family: "Explora", serif;
+    font-weight: 400;
+    font-style: normal;
+
+    .raleway-uniquifier > {
+      font-family: "Raleway", serif;
+      font-optical-sizing: auto;
+      font-weight: weight;
+      font-style: normal;
+    }
+  }
+}
+
+.weather-app-box {
+  background: white;
+  max-width: 600px;
+  margin: 45px auto;
+  box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
+  border-radius: 12px;
+  padding: 30px;
+}
